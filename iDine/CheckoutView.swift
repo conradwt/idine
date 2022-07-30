@@ -54,7 +54,7 @@ struct CheckoutView: View {
         .pickerStyle(SegmentedPickerStyle())
       }
       
-      Section(header: Text("TOTAL \(totalPrice)")) {
+      Section(header: Text("TOTAL \(totalPrice)").font(.largeTitle)) {
         Button("Confirm order") {
           showingPaymentAlert.toggle()
         }
