@@ -1,6 +1,6 @@
 # iDine
 
-The purpose of this project is to implement an application that build dining menu using a List.
+The purpose of this project is to implement a restaurant menu using SwiftUI.
 
 ## Getting Started
 
